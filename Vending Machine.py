@@ -33,7 +33,7 @@ inventory={
               "Kinder Bueno":[8,1.2]},
 }
 
-#Initialzing a dictionary with the variable "cart".
+#Initialzing an empty list with the variable "cart".
 cart=[]
 
 #Function to update the cart and the menu.
